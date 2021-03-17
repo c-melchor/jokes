@@ -10,12 +10,12 @@ export default function Navbar() {
                 <ul className="flex flex-row justify-around align-end text-white text-md">
                     <li className="px-2 border-3">
                         <i class="fab fa-github"></i>
-                        <a href="https://github.com/c-melchor" className="px-2" target="_blank">Github</a>
+                        <a href="https://github.com/c-melchor" className="px-2" target="_blank" rel="noreferrer">Github</a>
                     </li>
                     <li>
                         <i class="fab fa-linkedin"></i>
 
-                        <a href="https://www.linkedin.com/in/camelchor/" className="px-2" target="_blank">LinkedIn</a>
+                        <a href="https://www.linkedin.com/in/camelchor/" className="px-2" target="_blank" rel="noreferrer">LinkedIn</a>
                     </li>
                 </ul>
             </div>

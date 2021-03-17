@@ -10,7 +10,7 @@ export default function Jokes() {
             .then(res => { setJoke(res.data) })
             .then(() => { setIsFetching(!isFetching) })
             .catch(err => { console.log(err) })
-    }, [])
+    }, [isFetching])
 
     const newJoke = () => {
         window.location.reload(false)
