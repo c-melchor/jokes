@@ -2,5 +2,5 @@
 ### Created with Tailwind CSS and Create React App
 
 
-Deployed via Vercel at this website[https://jokes-liart.vercel.app/].
+Deployed via Vercel at https://jokes-liart.vercel.app/ .
 
